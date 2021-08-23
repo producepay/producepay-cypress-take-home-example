@@ -1,0 +1,12 @@
+{
+  "name": "producepay-cypress-take-home-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.3.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
